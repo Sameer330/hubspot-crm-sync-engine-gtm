@@ -1,0 +1,5 @@
+httpx
+pydantic
+python-dotenv
+thefuzz
+python-Levenshtein
